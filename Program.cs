@@ -7,6 +7,7 @@ namespace consoleapp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Nicole!");
+            Console.WriteLine("Hello Jacob!");
         }
     }
 }
